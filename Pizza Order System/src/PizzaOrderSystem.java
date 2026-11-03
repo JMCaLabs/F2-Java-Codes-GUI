@@ -19,9 +19,7 @@ public class PizzaOrderSystem {
 
         OrderSystem.setPreferredSize(new Dimension(300, 400));
         calculateButton.setPreferredSize(new Dimension(100, 20));
-        //pizzaSizeChoice.setPreferredSize(new Dimension(100, 20));
-        //pizzaToppingsChoice.setPreferredSize(new Dimension(100, 20));
-        //extraCheeseChoice.setPreferredSize(new Dimension(100, 20));
+       
 
         pizzaSizeChoice.addItem("Small");
         pizzaSizeChoice.addItem("Medium");
